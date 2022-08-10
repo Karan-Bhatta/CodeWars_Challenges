@@ -1,4 +1,4 @@
-// DESCRIPTION:
+// DESCRIPTION:>
 // Write a function to split a string and convert it into an array of words.
 
 // Examples (Input ==> Output):
@@ -10,9 +10,6 @@
 // My Solution
 
 function stringToArray(string){
-
-    // code code code
     myArray = string.split(" ");
     return myArray;
-  
   }
